@@ -29,3 +29,4 @@ This is a handwritten digit recognizer which uses a Convolutional Neural Network
 <img src="https://github.com/prakartigoel24/Handwritten-Digit-Recognition-Project/blob/main/DigitRecognizeGIF.gif" width="600" height="500"/>
 
 
+**Source of reference** --> (https://youtu.be/L2cAjgc1-bo)
