@@ -6,7 +6,7 @@ This is a handwritten digit recognizer which uses a Convolutional Neural Network
 
 - **Languages**  : Python
 - **Libraries** : Pygame, Matplotlib,TensorFlow, Keras, NumPy, OpenCV
-- **Technology** : Machine Learning  - CNN
+- **Technology** : Deep Learning  - CNN
 
 # Steps To Run This Project On Your Device : #
 
