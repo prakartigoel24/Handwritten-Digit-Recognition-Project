@@ -24,6 +24,7 @@ This is a handwritten digit recognizer which uses a Convolutional Neural Network
 
 8. A game window will open and you can draw digits from 0-9 for the model to recognize.
 
+Note : You can make changes in the `Model_code.py` file to modify the CNN model and then re-train it.
 ## Demo of the project
 
 <img src="https://github.com/prakartigoel24/Handwritten-Digit-Recognition-Project/blob/main/DigitRecognizeGIF.gif" width="600" height="500"/>
