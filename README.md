@@ -14,7 +14,7 @@ This is a handwritten digit recognizer which uses a Convolutional Neural Network
 
 2. Install VsCode or any other IDE of your choice on your device and make sure to check the add to PATH checkbox.
 
-3. Clone this repository on your system using `git clone <repo url>` command. 
+3. Clone this repository on your system using `git clone <repo url>` command or download as a Zip folder.
 
 4. Open the project folder in your IDE .
 
